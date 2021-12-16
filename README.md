@@ -1,2 +1,2 @@
-# guess-the-numbver-f121-12
+# guess-the-numbver
 A JavaScript application that demonstrates loops
